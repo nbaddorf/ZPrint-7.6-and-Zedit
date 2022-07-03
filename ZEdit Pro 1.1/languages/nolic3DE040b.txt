@@ -1,0 +1,21 @@
+Huom: Sinulla ei ole lisenssiä 3Data Expert -ohjelmistoon. 
+
+Ilman lisenssiä sinulla on käytettävissä View Expert-ohjelmiston ilmaisversio.
+
+Kaikkien 3Data Expert-ohjelmiston ominaisuuksien käyttö vaatii lisenssin. Saadaksesi lisätietoja lisenssin hankkimiseksi paina alla olevaa 'Kuinka saan lisenssin' painiketta.
+
+Lisensioitu 3Data Expert ohjemisto sisältää seuraavat toiminnot: 
+ -- IGES/VDA-mallien kolmiointi ja korjaus
+ -- IGES/VDA-FS-mallien leikkaus ja lisäpiirteiden luonti
+ -- STL-mallien korjaus ja jatkokäsittely
+ -- STL-mallien jako ja yhdistely
+ -- STL-mallien offsetointi ja kuoren luonti
+ -- Kolmioiden vähennys 
+ -- asettelu- ja muunnostyökalut
+ -- viipalointi ja tukirakenteet
+ -- liittimet, reiät jne. 
+ -- tekniset 2D piirustukset
+ -- ajastetut RP tausta-ajot
+ -- CATIA, ProE, UG ja STEP -luku
+
+Nähdäkseksi mitä piirteitä lisensioitu 3Data Expert-ohjelmisto sisältää, paina alla olevaa 'Näytä ohje' painiketta.

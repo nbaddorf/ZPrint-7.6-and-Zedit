@@ -1,0 +1,608 @@
+// Z Corporation Powder List Version 1.0
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z400
+Powder Type:                  ZP100
+Base Powder:                  ZP100
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   2.00  1.00
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0085
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0040
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z400
+Powder Type:                  ZP14
+Base Powder:                  ZP14
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.030  1.035  1.052
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z400
+Powder Type:                  ZP15E
+Base Powder:                  ZP15E
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.030  1.035  1.052
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z402
+Powder Type:                  ZP100
+Base Powder:                  ZP100
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   2.00  1.00
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0085
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0040
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z402
+Powder Type:                  ZP14
+Base Powder:                  ZP14
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.030  1.035  1.052
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z402
+Powder Type:                  ZP15E
+Base Powder:                  ZP15E
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.030  1.035  1.052
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z406
+Powder Type:                  ZB56/ZP102
+Base Powder:                  ZB56/ZP102
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.70  0.85
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0080
+Bleed Compensation Y:         0.0100  0.0560  0.0070
+Bleed Compensation Z:         0.0100  0.0560  0.0060
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Spectrum_56_102_v8.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z406
+Powder Type:                  ZP130
+Base Powder:                  ZP130
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.20  0.40
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0157
+Bleed Compensation Y:         0.0100  0.0560  0.0108
+Bleed Compensation Z:         0.0100  0.0560  0.0049
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Spectrum_58_130_zbd_v1.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z406
+Powder Type:                  ZP250
+Base Powder:                  ZP250
+Layer Thickness:              0.0050  1  0.0050
+Saturation:                   1.80  0.50
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0120
+Bleed Compensation Y:         0.0100  0.0560  0.0110
+Bleed Compensation Z:         0.0100  0.0560  0.0050
+Collision Clearance:          0.060
+Fixture Clearance:            0.250
+Colorfix File:			Spectrum_56_102_v8.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z406
+Powder Type:                  ZP14
+Base Powder:                  ZP14
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.013  1.015  1.025
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z406
+Powder Type:                  ZCast501
+Base Powder:                  ZCast501
+Layer Thickness:              0.0050  1  0.0050
+Saturation:                   1.20  0.30
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      ON
+Bleed Compensation X:         0.0100  0.0560  0.0190
+Bleed Compensation Y:         0.0100  0.0560  0.0190
+Bleed Compensation Z:         0.0100  0.0560  0.0160
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z406
+Powder Type:                  ZP15E
+Base Powder:                  ZP15E
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.021  1.015  1.034
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z810
+Powder Type:                  ZP102
+Base Powder:                  ZP102
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.70  0.85
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0080
+Bleed Compensation Y:         0.0100  0.0560  0.0070
+Bleed Compensation Z:         0.0100  0.0560  0.0060
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z810
+Powder Type:                  ZP130 Z-Bond
+Base Powder:                  ZP130 Z-Bond
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.2  0.45
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.001  1.001  1.006
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.0085
+Bleed Compensation Y:         0.0200  0.0560  0.0092
+Bleed Compensation Z:         0.0200  0.0560  0.0073
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Z810_58_130_zbd_v1.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z810
+Powder Type:                  ZP130 Wax
+Base Powder:                  ZP130 Wax
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.2  0.45
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.001  1.001  1.006
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.0085
+Bleed Compensation Y:         0.0200  0.0560  0.0092
+Bleed Compensation Z:         0.0200  0.0560  0.0073
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Z810_58_130_wax_v3.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z810
+Powder Type:                  ZP130 Z-Max
+Base Powder:                  ZP130 Z-Max
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.2  0.45
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.001  1.001  1.006
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.0085
+Bleed Compensation Y:         0.0200  0.0560  0.0092
+Bleed Compensation Z:         0.0200  0.0560  0.0073
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Z810_58_130_zmx_v1.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z810
+Powder Type:                  ZP250
+Base Powder:                  ZP250
+Layer Thickness:              0.0050  1  0.0050
+Saturation:                   1.80  0.50
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0110
+Bleed Compensation Y:         0.0100  0.0560  0.0080
+Bleed Compensation Z:         0.0100  0.0560  0.0040
+Collision Clearance:          0.060
+Fixture Clearance:            0.250
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z810
+Powder Type:                  ZP14
+Base Powder:                  ZP14
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.020  1.009  1.035
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z810
+Powder Type:                  ZCast501
+Base Powder:                  ZCast501
+Layer Thickness:              0.0050  1  0.0050
+Saturation:                   1.20  0.30
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      ON
+Bleed Compensation X:         0.0100  0.0560  0.0160
+Bleed Compensation Y:         0.0100  0.0560  0.0150
+Bleed Compensation Z:         0.0100  0.0560  0.0100
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z810
+Powder Type:                  ZP15E
+Base Powder:                  ZP15E
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.021  1.015  1.034
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+Colorfix File:			Z810_58_130_wax_v3.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 310/Mx
+Powder Type:                  ZP130
+Base Powder:                  ZP130
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.1  0.40
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0093
+Bleed Compensation Y:         0.0100  0.0560  0.0071
+Bleed Compensation Z:         0.0100  0.0560  0.0048
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 310/Mx
+Powder Type:                  ZP131
+Base Powder:                  ZP131
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   0.935   0.4675 
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0071
+Bleed Compensation Y:         0.0100  0.0560  0.0058 
+Bleed Compensation Z:         0.0100  0.0560  0.0027 
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 310/Mx
+Powder Type:                  ZP140
+Base Powder:                  ZP140
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   0.88  0.44
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0069
+Bleed Compensation Y:         0.0100  0.0560  0.0056
+Bleed Compensation Z:         0.0100  0.0560  0.0042
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 310/Mx
+Powder Type:                  ZB56/ZP102
+Base Powder:                  ZB56/ZP102
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.80  0.90
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0080
+Bleed Compensation Y:         0.0100  0.0560  0.0070
+Bleed Compensation Z:         0.0100  0.0560  0.0060
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 310/Mx
+Powder Type:                  ZP250
+Base Powder:                  ZP250
+Layer Thickness:              0.0050  1  0.0050
+Saturation:                   2.00  0.50
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0110
+Bleed Compensation Y:         0.0100  0.0560  0.0090
+Bleed Compensation Z:         0.0100  0.0560  0.0030
+Collision Clearance:          0.060
+Fixture Clearance:            0.250
+//
+//--------------------------------------------------------
+//
+Printer Type:                 310/Mx
+Powder Type:                  ZP14
+Base Powder:                  ZP14
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.013  1.015  1.025
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+//
+//--------------------------------------------------------
+//
+Printer Type:                 310/Mx
+Powder Type:                  ZCast501
+Base Powder:                  ZCast501
+Layer Thickness:              0.0050  1  0.0050
+Saturation:                   1.20  0.30
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      ON
+Bleed Compensation X:         0.0100  0.0560  0.0140
+Bleed Compensation Y:         0.0100  0.0560  0.0140
+Bleed Compensation Z:         0.0100  0.0560  0.0120
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 310/Mx
+Powder Type:                  ZP15E
+Base Powder:                  ZP15E
+Layer Thickness:              0.0070  3  0.0060  0.0070  0.0080
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     YES
+Anisotropic Scaling:          1.021  1.015  1.034
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0100  0.0560  0.0100
+Bleed Compensation Y:         0.0100  0.0560  0.0100
+Bleed Compensation Z:         0.0100  0.0560  0.0070
+Collision Clearance:          0.075
+Fixture Clearance:            0.300
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z510/Cx
+Powder Type:                  ZP130 Z-Bond
+Base Powder:                  ZP130 Z-Bond
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   0.88  0.44
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.0056
+Bleed Compensation Y:         0.0200  0.0560  0.0051
+Bleed Compensation Z:         0.0200  0.0560  0.0039
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Spectrum_58_130_zbd_v2.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z510/Cx
+Powder Type:                  ZP130 Wax
+Base Powder:                  ZP130 Wax
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   0.88  0.44
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.0056
+Bleed Compensation Y:         0.0200  0.0560  0.0051
+Bleed Compensation Z:         0.0200  0.0560  0.0039
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Spectrum_58_130_zbd_v2.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z510/Cx
+Powder Type:                  ZP130 Z-Max
+Base Powder:                  ZP130 Z-Max
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   0.88  0.44
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.0056
+Bleed Compensation Y:         0.0200  0.0560  0.0051
+Bleed Compensation Z:         0.0200  0.0560  0.0039
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Spectrum_58_130_zbd_v2.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z510/Cx
+Powder Type:                  ZP131
+Base Powder:                  ZP131
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   0.748  0.374
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.0045
+Bleed Compensation Y:         0.0200  0.0560  0.0038
+Bleed Compensation Z:         0.0200  0.0560  0.0027
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Spectrum_60_131_zbd_v2.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z510/Cx
+Powder Type:                  ZP140
+Base Powder:                  ZP140
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   0.748  0.374
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.0047
+Bleed Compensation Y:         0.0200  0.0560  0.0042
+Bleed Compensation Z:         0.0200  0.0560  0.0038
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Spectrum_60_140_zbd_v1.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z510/Cx
+Powder Type:                  ZP102
+Base Powder:                  ZP102
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.20  0.60
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.0065
+Bleed Compensation Y:         0.0200  0.0560  0.0077
+Bleed Compensation Z:         0.0200  0.0560  0.0049
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Spectrum_56_102_v8.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z510/Cx
+Powder Type:                  ZCast501
+Base Powder:                  ZCast501
+Layer Thickness:              0.0050  1  0.0050
+Saturation:                   0.81  0.21
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.012
+Bleed Compensation Y:         0.0200  0.0560  0.012
+Bleed Compensation Z:         0.0200  0.0560  0.010
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z510/Cx
+Powder Type:                  ZP15E
+Base Powder:                  ZP15E
+Layer Thickness:              0.0070  3  0.0050	0.0060	0.0070
+Saturation:                   0.729  0.243
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.004  1.007  1.005
+Bleed Compensation Flag:      OFF
+Bleed Compensation X:         0.0200  0.0560  0.001
+Bleed Compensation Y:         0.0200  0.0560  0.001
+Bleed Compensation Z:         0.0200  0.0560  0.000
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			Spectrum_58_130_wax_v2.zcc
+//
+//--------------------------------------------------------
+//
+Printer Type:                 Z450
+Powder Type:                  ZP130
+Base Powder:                  ZP130
+Layer Thickness:              0.0040  2  0.0035  0.0040
+Saturation:                   1.30  0.65
+Sat. Depends On Geometry:     NO
+Anisotropic Scaling:          1.000  1.000  1.000
+Bleed Compensation Flag:      ON
+Bleed Compensation X:         0.0200  0.0560  0.0043
+Bleed Compensation Y:         0.0200  0.0560  0.0076
+Bleed Compensation Z:         0.0200  0.0560  0.0034
+Collision Clearance:          0.040
+Fixture Clearance:            0.150
+Colorfix File:			z450_59_130_zbd_v1.zcc

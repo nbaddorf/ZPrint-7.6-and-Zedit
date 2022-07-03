@@ -1,0 +1,122 @@
+PMAINT	1	0	// This must be the first line in the file
+//
+//	chris korda
+//
+//	rev	date	comments 
+//	00	22nov02 initial version
+//	01	09dec02	change Zephyr name to 'ZPrinter 310'
+//	02	31mar03	aab: added schedule for 'Z406 TYPE II'
+//	03	09may03 aab: amended Z406T2 maintenance triggers
+//	04	12nov04 aab: added schedule for 'SPECTRUM Z510' 
+//	05	09dec04 aab: changed 'SPECTRUM Z510' to 'Toucan'
+//	06	08nov05 azh: added "ZPrinter 310 Plus' entry (copied from ZPrinter 310)
+//	07	14nov06 azh: added "ELLC' entry (copied from Toucan)
+//	08	20feb07 aab: updated ELLC maintenance triggers
+//	09	28mar07 aab: updated ELLC maintenance triggers again, per bsb
+//
+//	preventative maintenance database
+//
+
+// This is the list of odometers that can be referenced by trigger records in the
+// maintenance database.  Each odometer record consists of a sticky variable
+// name, and a title for display purposes.
+
+ODOMETER	SLOW_INCHES		'Slow Axis Inches'
+ODOMETER	FAST_INCHES		'Fast Axis Inches'
+ODOMETER	LIFE_HOURS		'Life Hours'
+ODOMETER	LAYERS_PRINTED		'Layers Printed'
+ODOMETER	PEG_APPS		'Wash Fluid Apps'
+ODOMETER 	SPIT_LITERS	  	'Waste Fluid Liters'
+
+// This is the maintenance database.  It contains one maintenance schedule for
+// each printer.  Each schedule is composed of one or more service items, and
+// each service item is composed of one of more triggers.  A trigger record has
+// two arguments: the name of the trigger's odometer, which must be defined
+// above, and the service interval.  A service item record also has two
+// arguments: the sticky variable prefix, and a title for display purposes.
+// The prefix is used to synthesize sticky variable names for the "odometer at
+// last service" cookies, one per trigger.  The prefix is also used to link
+// service items with their help text.
+
+SCHEDULE	'Z406'
+	SERVITM		LAXRAILS	'Lube Axis Rails'
+		TRIGGER		SLOW_INCHES		4.00e6
+		TRIGGER		FAST_INCHES		30.00e6
+		TRIGGER		LIFE_HOURS		8.76e3
+	SERVITM		LPISCREWS	'Lube Piston Screws'
+		TRIGGER		LAYERS_PRINTED		2.50e5
+		TRIGGER		LIFE_HOURS		8.76e3
+
+SCHEDULE	'Z810'
+	SERVITM		LAXRAILS	'Lube Axis Rails'
+		TRIGGER		SLOW_INCHES		4.00e6
+		TRIGGER		FAST_INCHES		30.00e6
+		TRIGGER		LIFE_HOURS		8.76e3
+	SERVITM		LPISCREWS	'Lube Piston Screws'
+		TRIGGER		LAYERS_PRINTED		2.50e5
+		TRIGGER		LIFE_HOURS		8.76e3
+
+SCHEDULE	'ZPrinter 310'
+	SERVITM		LAXRAILS	'Lube Axis Rails'
+		TRIGGER		SLOW_INCHES		4.00e6
+		TRIGGER		FAST_INCHES		20.00e6
+		TRIGGER		LIFE_HOURS		8.76e3
+	SERVITM		LPISCREWS	'Lube Piston Screws'
+		TRIGGER		LAYERS_PRINTED		2.50e5
+		TRIGGER		LIFE_HOURS		8.76e3
+	SERVITM		RFWASH		'Refill Wash Fluid'
+		TRIGGER		PEG_APPS		8.00e3
+		TRIGGER		LIFE_HOURS		8.76e3
+
+SCHEDULE	'ZPrinter 310 Plus'
+	SERVITM		LAXRAILS	'Lube Axis Rails'
+		TRIGGER		SLOW_INCHES		4.00e6
+		TRIGGER		FAST_INCHES		20.00e6
+		TRIGGER		LIFE_HOURS		8.76e3
+	SERVITM		LPISCREWS	'Lube Piston Screws'
+		TRIGGER		LAYERS_PRINTED		2.50e5
+		TRIGGER		LIFE_HOURS		8.76e3
+	SERVITM		RFWASH		'Refill Wash Fluid'
+		TRIGGER		PEG_APPS		8.00e3
+		TRIGGER		LIFE_HOURS		8.76e3
+
+SCHEDULE	'Z406 TYPE II'
+	SERVITM		LSARAILS	'Lube Slow Axis Bearings'
+		TRIGGER		SLOW_INCHES		3.00e7
+		TRIGGER		LIFE_HOURS		8.76e3
+	SERVITM		LFARAILS	'Lube Fast Axis Bearings'
+		TRIGGER		FAST_INCHES		3.00e7
+		TRIGGER		LAYERS_PRINTED		6.00e4
+	SERVITM		LPISCREWS	'Lube Piston Screws'
+		TRIGGER		LAYERS_PRINTED		2.50e5
+		TRIGGER		LIFE_HOURS		8.76e3
+
+SCHEDULE	'Toucan'
+ 	SERVITM  	LSARAILS 	'Lube Slow Axis Bearings'
+  		TRIGGER  	SLOW_INCHES  		3.00e7
+  		TRIGGER  	LIFE_HOURS  		8.76e3
+ 	SERVITM  	LFARAILS 	'Lube Fast Axis Bearings'
+  		TRIGGER  	FAST_INCHES  		3.00e7
+  		TRIGGER  	LIFE_HOURS  		8.76e3
+ 	SERVITM  	LPISCREWS 	'Lube Piston Screws'
+  		TRIGGER  	LAYERS_PRINTED  	2.50e5
+  		TRIGGER  	LIFE_HOURS  		8.76e3
+
+SCHEDULE	'ELLC'
+ 	SERVITM  	LSARAILS 	'Lube Slow Axis Bearings'
+  		TRIGGER  	SLOW_INCHES  		2.11e6
+  		TRIGGER  	LIFE_HOURS  		8.76e3
+ 	SERVITM  	LFARAILS 	'Lube Fast Axis Bearings'
+  		TRIGGER  	FAST_INCHES  		1.17e7
+  		TRIGGER  	LIFE_HOURS  		2.88e3
+ 	SERVITM  	LPISCREWS 	'Lube Piston Screws'
+  		TRIGGER  	LAYERS_PRINTED  	3.96e5
+  		TRIGGER  	LIFE_HOURS  		8.76e3
+ 	SERVITM  	CHGWASTE 	'Change Waste Tray'
+  		TRIGGER  	SPIT_LITERS	  	1.45
+  		TRIGGER  	LIFE_HOURS  		8.76e3
+	SERVITM		RFWASH		'Refill Wash Fluid'
+		TRIGGER		PEG_APPS		8.00e3
+		TRIGGER		LIFE_HOURS		8.76e3
+
+

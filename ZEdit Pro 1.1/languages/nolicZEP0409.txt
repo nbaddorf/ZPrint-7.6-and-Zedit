@@ -1,0 +1,14 @@
+NOTE: You don't have license to run ZEdit Pro. 
+
+Without license the ZEdit Pro has only functionality for viewing the models.
+
+To be able to use all the functionality of ZEdit Pro, you need a license. For more information about how to get a license, please select 'How to get license' below.
+
+The licensed version of ZEdit Pro includes: 
+ -- support for ZPR, VRML and STL file formats
+ -- verification and repairing of models 
+ -- splitting and combining models 
+ -- offsetting and hollowing models 
+ -- positioning and transformation tools 
+ -- adding pins, holes to split models
+ -- coloring and texturing of models

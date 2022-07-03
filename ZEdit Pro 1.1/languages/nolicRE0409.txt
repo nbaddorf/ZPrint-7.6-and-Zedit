@@ -1,0 +1,13 @@
+NOTE: You don't have license to run DeskArtes Render Expert. 
+
+Without license the Render Expert has only the same functionality as the free version of the View Expert.
+
+To be able to use all the functionality of DeskArtes Render Expert, you need a license. For more information about how to get a license, please select 'How to get license' below.
+
+The licensed version of DeskArtes Render Expert includes:
+ -- importing IGES,VDA-FS and STL models 
+ -- positioning and transformation tools 
+ -- generating photo realistic images from geometry data 
+ -- Ray-tracing with shadows, highlights and textures 
+ -- professional 2D drawings
+ -- input CATIA, UG and STEP files

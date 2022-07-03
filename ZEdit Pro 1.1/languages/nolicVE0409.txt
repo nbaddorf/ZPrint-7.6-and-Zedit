@@ -1,0 +1,11 @@
+NOTE: This is an unlicensed free version of DeskArtes View Expert.
+
+To be able to use all the functionality of DeskArtes View Expert, you need a license.For more information about how to get a license, please select 'How to get license' below.
+
+The following additional features are enabled only under a licensed version of DeskArtes View Expert:
+ -- input / output of VDA-FS files 
+ -- input / output of IGES files
+ -- professional 2D Drawings
+ -- input CATIA, Ug and STEP files
+
+To see what you can do with the additional features, you can look at the DeskArtes View Expert tutorial by selecting the 'Show tutorial' button below.

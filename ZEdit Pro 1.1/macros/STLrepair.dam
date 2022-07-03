@@ -1,0 +1,4 @@
+\\This is automatically generated DeskArtes Expert Series macro file, do not edit manually.
+Version=0.5;
+ID_REPAIR,Solid Repair:RepairFillGaps=1,RepairStitchGaps=1,RepairMinErrors=0,RepairCheckInter=1,RepairDelInter=0,RepairDelOverlap=0,RepairDelMultiple=0,RepairDelFloating=0,RepairDel3edge=0,RepairDelAtgap=0,RepairFillGapTol=-3.0000000,RepairStitchGapTol=0.1000000,;
+ID_MACRO_SEL_CHANGE,Select New Object:SelectNewObject=0,0,0,;

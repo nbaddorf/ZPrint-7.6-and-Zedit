@@ -1,0 +1,19 @@
+Printer Class	Error Code	Error Param	Help File	Help Topic
+ELLC	1003	*	Z450.chm	Error_1003.htm
+ELLC	1004	*	Z450.chm	Error_1004.htm
+ELLC	1006	0	Z450.chm	Error_1006_(0).htm
+ELLC	1006	1	Z450.chm	Error_1006_(1).htm
+ELLC	1007	*	Z450.chm	Error_1007.htm
+ELLC	1009	*	Z450.chm	Error_1009.htm
+ELLC	1010	*	Z450.chm	Error_1010.htm
+ELLC	1905	*	Z450.chm	Error_1905.htm
+ELLC	2303	0	Z450.chm	Error_2303_(0).htm
+ELLC	2303	1	Z450.chm	Error_2303_(1).htm
+ELLC	2400	0	Z450.chm	Error_2400_(0).htm
+ELLC	2400	1	Z450.chm	Error_2400_(1).htm
+ELLC	40006	*	Z450.chm	Error_40006.htm
+ELLC	40007	*	Z450.chm	Error_40007.htm
+ELLC	40008	*	Z450.chm	Error_40008.htm
+ELLC	40800	*	Z450.chm	Error_40800.htm
+ELLC	60501	*	Z450.chm	Error_60501.htm
+ELLC	60502	*	Z450.chm	Error_60502.htm

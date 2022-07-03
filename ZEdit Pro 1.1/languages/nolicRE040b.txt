@@ -1,0 +1,13 @@
+Huom: Sinulla ei ole lisenssiä Render Expert -ohjelmistoon. 
+
+Ilman lisenssiä sinulla on käytettävissä View Expert-ohjelmiston ilmaisversio.
+
+Käyttääksesi Render Expert-ohjelmiston kaikkia ominaisuuksia tarvitset lisenssin. Saadaksesi lisätietoja lisenssin hankkimiseksi paina alla olevaa 'Kuinka saan lisenssin' painiketta.
+
+Seuraavat lisäpiirteet ovat käytettävissä vain lisensioidussa Render Expert versiossa:
+ -- IGES,VDA-FS ja STL-luku 
+ -- sijoittelu ja muunnostyökalut 
+ -- fotorealististen kuvin luonti 
+ -- säteenheitto varjoilla, valoilla ja tekstuureilla 
+ -- tekniset 2D piirustukset
+ -- CATIA, UG ja STEP luku

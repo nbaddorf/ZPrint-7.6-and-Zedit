@@ -1,0 +1,1082 @@
+﻿<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Window Styles" value="0x800027">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ZEdit Pro">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="About ZEdit Pro">
+      <param name="Local" value="zep\About_ZEditPro.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Repair Philosophy">
+      <param name="Local" value="zep\zep_philosophy.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Getting Started">
+      <param name="Local" value="zep\ZEP_Getting_Started.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Menus and Commands">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="File menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="New">
+        <param name="Local" value="AfxCore\HID_FILE_NEW.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Open">
+        <param name="Local" value="zep\zep_file_open.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Close">
+        <param name="Local" value="zep\Close.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Save">
+        <param name="Local" value="zep\Save_file.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Save As">
+        <param name="Local" value="zep\zep_file_save_as.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Page setup">
+        <param name="Local" value="AfxPrin\HID_FILE_PAGE_SETUP.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Print preview">
+        <param name="Local" value="AfxPrin\HID_FILE_PRINT_PREVIEW.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Print">
+        <param name="Local" value="AfxPrin\HID_FILE_PRINT.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Update in ZPrint">
+        <param name="Local" value="zep\Return_to_ZPrint.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Insert">
+        <param name="Local" value="zep\Insert_File.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Open Recently Used Files">
+        <param name="Local" value="ViewE\Recent_files.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Exit">
+        <param name="Local" value="zep\zep_edit_exit.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Edit menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Undo/Redo">
+        <param name="Local" value="AfxCore\HID_EDIT_UNDO.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Cut">
+        <param name="Local" value="AfxCore\HID_EDIT_CUT.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Copy">
+        <param name="Local" value="AfxCore\HID_EDIT_COPY.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Paste">
+        <param name="Local" value="AfxCore\HID_EDIT_PASTE.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Delete">
+        <param name="Local" value="AfxCore\HID_EDIT_DELETE.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Selection Mode&gt;&gt;">
+        <param name="Local" value="zep\Selection_Mode_menu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Polygon Selection">
+        <param name="Local" value="ViewE\Polygon_Selection.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Invert Selection">
+        <param name="Local" value="ViewE\Invert_Selection.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Groups&gt;&gt;">
+        <param name="Local" value="zep\Groups.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Copy image">
+        <param name="Local" value="AfxCore\HID_POPUP_COPYIMAGE.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Shortcuts">
+        <param name="Local" value="ViewE\Shotcuts.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Preferences">
+        <param name="Local" value="zep\zep_preferences.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="View menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Zoom &gt;&gt;">
+        <param name="Local" value="AfxCore\Zoom_command_View_menu_.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Pan &gt;&gt;">
+        <param name="Local" value="zep\zep_Pan_commands.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ortho View&gt;&gt;">
+        <param name="Local" value="AfxCore\View_directions_View_menu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Quad View">
+        <param name="Local" value="ViewE\4_Views.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Hide Object">
+        <param name="Local" value="ViewE\Hidding.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show Object">
+        <param name="Local" value="AfxCore\HID_VIEW_DISPLOBJECT.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Blink Object">
+        <param name="Local" value="AfxCore\HID_VIEW_BLINK.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Fit  Object">
+        <param name="Local" value="AfxCore\HID_VIEW_FITOBJECT.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Hide All">
+        <param name="Local" value="AfxCore\HID_VIEW_ERASEALL.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show All">
+        <param name="Local" value="AfxCore\HID_VIEW_DRAWALL.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Fit All">
+        <param name="Local" value="AfxCore\HID_VIEW_FIT.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Display Errors &gt;&gt;">
+        <param name="Local" value="ViewE\Display_Errors.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show Errors Only">
+        <param name="Local" value="Displa_Errors_Only.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Object Properties">
+        <param name="Local" value="AfxCore\HID_POPUP_PROPERTIES.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Model Tree Window">
+        <param name="Local" value="zep\Model_Tree_Window.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Tools Window">
+        <param name="Local" value="zep\Tools_Window.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Toolbars &gt;&gt;">
+        <param name="Local" value="zep\zep_Toolbars.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Dimensions menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Point Value">
+        <param name="Local" value="AfxCore\HID_POPUP_DIMENS_POINT.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Distance">
+        <param name="Local" value="AfxCore\HID_POPUP_DIMENS_DIST.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Angle">
+        <param name="Local" value="AfxCore\HID_POPUP_DIMENS_ANGLE.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Radius">
+        <param name="Local" value="AfxCore\HID_POPUP_DIMENS_RADIUS.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Volume">
+        <param name="Local" value="Volume.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mark-up">
+        <param name="Local" value="AfxCore\Creating_an_annotation.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Object Info">
+        <param name="Local" value="ViewE\Object_info.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Status">
+        <param name="Local" value="ViewE\Status.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Transform menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Move">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Move Interactive">
+          <param name="Local" value="AfxCore\HID_TRANS_MOVE_INTER.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Move Numeric">
+          <param name="Local" value="AfxCore\HIDD_TRANS_MOVE_EDITPT_DLG.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Move to Origin">
+          <param name="Local" value="rendere\Move_To_Origin.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Rotate">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Rotate Interactive">
+          <param name="Local" value="AfxCore\HID_TRANS_ROTATE_INTER.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Rotate Numeric">
+          <param name="Local" value="AfxCore\HID_TRANS_ROTATE_NUMERIC.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Scale">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Scale Interactive">
+          <param name="Local" value="AfxCore\HID_TRANS_SCALE_INTER.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Scale Numeric">
+          <param name="Local" value="AfxCore\HIDD_TRANS_SCALE_DLG.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mirror">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Mirror Interactive">
+          <param name="Local" value="AfxCore\HID_TRANS_MIRROR_INTER.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Mirror Numeric">
+          <param name="Local" value="AfxCore\HID_TRANS_MIRROR_NUMERIC.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Fix Point">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Fix point commands">
+          <param name="Local" value="AfxCore\Set_reference_point.htm">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Create Geometry">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Plane">
+        <param name="Local" value="Plane.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Box">
+        <param name="Local" value="Box.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Sphere">
+        <param name="Local" value="Sphere.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Cylinder">
+        <param name="Local" value="Cylinder.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Cone">
+        <param name="Local" value="Cone.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Torus">
+        <param name="Local" value="zep\torus_command.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Create 3D Text">
+        <param name="Local" value="zep\Create_3D_Text.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Curve Input &gt;&gt;">
+        <param name="Local" value="3datae\Create_polygon.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Curve Edit">
+        <param name="Local" value="3datae\Edit_Polygon.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Extrude Surface&gt;&gt;">
+        <param name="Local" value="zep\Extrude_Surface.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Rotate Surface&gt;&gt;">
+        <param name="Local" value="Rotate_Surface.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Fix Model">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Verify Shells">
+        <param name="Local" value="STL\Overview.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Repair Shells">
+        <param name="Local" value="STLrep\HID_REPAIR.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Remove Self-intersections">
+        <param name="Local" value="Remove_Self-intersections.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Locate Errors">
+        <param name="Local" value="Locate_Errors.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Edit Triangles">
+        <param name="Local" value="AfxCore\HID_EDIT_TRIANGLES_DELETE.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Fill Gaps">
+        <param name="Local" value="3datae\Solid_Fill_Gap.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Join Gaps">
+        <param name="Local" value="Join_Gaps.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Fix Normals Automatically">
+        <param name="Local" value="Fix_Normals_Auto.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Flip Selected Normals">
+        <param name="Local" value="Flip_Normals.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Flip Triangle Normals">
+        <param name="Local" value="zep\Flip_Triangle_Normals.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Check Thin Walls">
+        <param name="Local" value="Check_Thin_Walls.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Delete Errors&gt;&gt;">
+        <param name="Local" value="3datae\Delete_Errors.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Color and Texture">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Edit Surfaces">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Show Edge Lines">
+          <param name="Local" value="Auto_Edge_Line_Detection.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Pick Edge Line">
+          <param name="Local" value="Pick_Edge_Line.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Add Edge Line">
+          <param name="Local" value="Add_Edge_Line.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Add Edge Line Segment">
+          <param name="Local" value="zep\Add_Edge_Line_Segment.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Delete Edge Line">
+          <param name="Local" value="Delete_Edge_Line.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Delete Edge Line Segment">
+          <param name="Local" value="zep\Delete_Edge_Line_Segment.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Split Edge Line">
+          <param name="Local" value="Split_Edge_Line.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Merge Edge Line">
+          <param name="Local" value="Merge_Edge_Line.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sketch Edge Line">
+          <param name="Local" value="Sketch_Edge_Line.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Paint">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Part">
+          <param name="Local" value="Paint_Part.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Shell">
+          <param name="Local" value="Paint_Shell.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Surface">
+          <param name="Local" value="Paint_Surface.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Triangle">
+          <param name="Local" value="Paint_Triangle.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Paint by Color">
+          <param name="Local" value="Paint_by_Color.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Texture/Annotation">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Apply Text">
+          <param name="Local" value="Apply_Text.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Apply Template">
+          <param name="Local" value="Apply_Template.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Apply Arrow">
+          <param name="Local" value="Apply_Arrow.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Apply Circle">
+          <param name="Local" value="Apply_Circle.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Apply Texture Map">
+          <param name="Local" value="Apply_Texture_Map.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Replace Texture">
+          <param name="Local" value="Replace_Texture.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Delete Texture">
+          <param name="Local" value="Delete_Texture.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Circle Options">
+          <param name="Local" value="Circle_options.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Arrow Options">
+          <param name="Local" value="Arrow_options.htm">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Print Preparation">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Split">
+        <param name="Local" value="STLcut\HID_CURVE_CUTTER.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Connect">
+        <param name="Local" value="Connectors.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Hollow">
+        <param name="Local" value="AfxCore\HID_SHELL.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Drain Hole">
+        <param name="Local" value="Drain_Hole.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Offset">
+        <param name="Local" value="AfxCore\HID_TOOLS_OFFSET.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Help menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Help Topics">
+        <param name="Local" value="AfxCore\HID_HELP_FINDER.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show Command Tips">
+        <param name="Local" value="zep\Show_Command_Tips.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Introduction to Fixing">
+        <param name="Local" value="Show_Instructions.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Tutorial Documents">
+        <param name="Local" value="zep\Tutorial_Documents.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="License and Registration">
+        <param name="Local" value="zep\ZEP_Registration.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="About ZEdit Pro">
+        <param name="Local" value="zep\zep_About_command.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Right button menus">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Overview">
+      <param name="Local" value="ViewE\Right_mouse_button_menus.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Model Tree Menu">
+      <param name="Local" value="ViewE\Model_Tree_Menu.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Display Area Menu">
+      <param name="Local" value="ViewE\Display_Area_Menu.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Annotations Menu">
+      <param name="Local" value="ViewE\Annotations_Menu.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Toolbars and windows">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Model Tree Window">
+      <param name="Local" value="ViewE\HIDC_MODELTREE.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Fix Model Tab">
+      <param name="Local" value="Prompted_Mode.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Paint &amp; Texture Tab">
+      <param name="Local" value="Texturing_and_coloring.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Print Preparation Tab">
+      <param name="Local" value="zep\Print_Preparation_Tab.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Operation Mode Window">
+      <param name="Local" value="zep\OperationModeWindow.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Clipping Tab">
+      <param name="Local" value="AfxCore\HIDD_VIEWINGDIALOG.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Standard Toolbar">
+      <param name="Local" value="AfxCore\AFX_HIDW_TOOLBAR.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Viewing Toolbar">
+      <param name="Local" value="AfxCore\Viewing_Toolbar.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="View Planes Toolbar">
+      <param name="Local" value="View_Direction_Toolbar.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Errors Toolbar">
+      <param name="Local" value="Show_Errors_Toolbar.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Statusbar">
+      <param name="Local" value="AfxCore\AFX_HIDW_STATUS_BAR.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Transform Toolbar">
+      <param name="Local" value="AfxCore\Transform_toolbar.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Dimensions Toolbar">
+      <param name="Local" value="AfxCore\HIDR_DIMENSIONS_TOOLBAR.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="ZPrint Toolbar">
+      <param name="Local" value="zep\ZPrint_Toolbar.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Preferences">
+      <param name="Local" value="zep\zep_preferences.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Viewing">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Changing the viewing direction">
+      <param name="Local" value="ViewE\Changing_the_viewing_direction.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Viewing properties">
+      <param name="Local" value="ViewE\Viewing_properties.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Showing and Hiding">
+      <param name="Local" value="ViewE\Showing_and_Hidding.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Hiding">
+      <param name="Local" value="ViewE\Hidding.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Fitting">
+      <param name="Local" value="ViewE\Fitting.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Automatic display">
+      <param name="Local" value="ViewE\HID_POPUP_ENDAUTOSELECTMODE.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Active and passive objects">
+      <param name="Local" value="ViewE\Active_and_Passive_objects.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Shortcuts">
+      <param name="Local" value="ViewE\Shortcuts.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Colors">
+      <param name="Local" value="zep\Display_modes.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Showing Grid">
+      <param name="Local" value="AfxCore\view_grid.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Zooming">
+      <param name="Local" value="AfxCore\Zoom_mode.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Panning">
+      <param name="Local" value="AfxCore\Pan_mode.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Selection">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Selecting objects">
+      <param name="Local" value="ViewE\Selecting_objects.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Selection  mode">
+      <param name="Local" value="ViewE\Selection_mode.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Groups">
+      <param name="Local" value="zep\Groups.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sticky Modes">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Sticky modes">
+      <param name="Local" value="ViewE\Sticky_modes.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Colors">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Color Display Modes">
+      <param name="Local" value="zep\Display_modes.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Surface colors">
+      <param name="Local" value="zep\Surface_colors.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Dimensioning and Annotating">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Selecting points on the screen">
+      <param name="Local" value="ViewE\selecting_points.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Selecting an annotation">
+      <param name="Local" value="ViewE\Selecting_an_annotation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Cancelling a measurement">
+      <param name="Local" value="ViewE\Cancelling_a_measurement.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Editting and moving dimensions and annotations">
+      <param name="Local" value="ViewE\Editting_an_annotation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Exporting annotations">
+      <param name="Local" value="ViewE\Exporting_annotations.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Positioning">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Applications">
+      <param name="Local" value="position\Applications.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Precise positioning">
+      <param name="Local" value="position\Precise_positioning.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Graphical positioning">
+      <param name="Local" value="position\Graphical_positioning.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Absolute positioning">
+      <param name="Local" value="position\Absolute_positioning.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Handling Faceted Models">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Correct faceted files">
+      <param name="Local" value="STL\Correct_STL_files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Incorrect faceted files">
+      <param name="Local" value="STL\Incorrect_STL_files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Triangle errors">
+      <param name="Local" value="zep\zep_Triangle_errors.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Using the Model Tree">
+      <param name="Local" value="zep\zep_Using_the_Model_Tree.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Repair Workflow">
+      <param name="Local" value="zep\zep_Workflow.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Repairing for Print Preparation">
+      <param name="Local" value="zep\Reparing_for_Print_Preparation.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Verifying">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="ViewE\Overview_verify.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Verify Shells Tool">
+        <param name="Local" value="STL\Verify_STL_Tool.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Verify Shell Settings">
+        <param name="Local" value="STL\Overview.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Repairing">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="STLrep\Overview_stl_repair.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reparing the normals">
+        <param name="Local" value="STLrep\Reparing_the_normals.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap stitching">
+        <param name="Local" value="STLrep\HIDC_STICHGAP.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gap filling">
+        <param name="Local" value="STLrep\HIDC_FILLGAP.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Removing self-intersections">
+        <param name="Local" value="Removing_self-intersections.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Repair STL Settings">
+        <param name="Local" value="STLrep\HID_REPAIR.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Splitting and connecting">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Learning to split">
+        <param name="Local" value="STLcut\Overview_splitting.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Splitting aftermath">
+        <param name="Local" value="STLcut\Splitting_aftermath.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Connecting two models">
+        <param name="Local" value="STLcut\Overview_pins.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Offsetting">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Applications">
+        <param name="Local" value="shelling\Offsetting_Overview.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Usage">
+        <param name="Local" value="shelling\Offsetting_usage.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Example">
+        <param name="Local" value="shelling\Offset_example.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Troubleshooting">
+        <param name="Local" value="shelling\Offsetting_troubleshooting.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Offset Settings">
+        <param name="Local" value="AfxCore\HID_TOOLS_OFFSET.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Hollowing">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Applications">
+        <param name="Local" value="shelling\Shelling_Applications.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Usage">
+        <param name="Local" value="shelling\Shelling_Overview.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Example">
+        <param name="Local" value="shelling\Shelling_example.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Hollow Settings">
+        <param name="Local" value="AfxCore\HID_SHELL.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Hollowing vs. Offsetter">
+        <param name="Local" value="shelling\Rapid_Shelling_vs_Rapid_Offsetter.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Handling Surface Models">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Modify Surfaces menu">
+      <param name="Local" value="zep\Modify_Surfaces_menu.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="IGES Files">
+      <param name="Local" value="IGES\IGES_Files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="VDAFS Files">
+      <param name="Local" value="VDAFS\VDAFS_Files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Input tolerances">
+      <param name="Local" value="AfxCore\HIDD_PREFPG_SRF_INPUT.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Verifying">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="IGES\IGES_Overview.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Surfaces in IGES and VDAFS files">
+        <param name="Local" value="IGES\Surfaces_in_IGES_files.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="The Verify Surfaces Tool">
+        <param name="Local" value="IGES\The_Verify_Surfaces_Tool.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Verify Surfaces Settings">
+        <param name="Local" value="IGES\HIDD_PREFPG_SRF_VERIFY.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Triangulating">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Overview">
+        <param name="Local" value="IGES\HID_TRIANGULATE.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Controlling the accuracy">
+        <param name="Local" value="IGES\Triangulation_accuracy.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Controlling the automatic repair">
+        <param name="Local" value="IGES\Controlling_the_automatic_repair.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Triangulate Settings">
+        <param name="Local" value="IGES\HIDD_TRIANGULATE.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="File Types">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="STL Files">
+      <param name="Local" value="STL\STL_Files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="VRML files">
+      <param name="Local" value="spectral\VRML_files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="ZPR Files">
+      <param name="Local" value="ViewE\ZPR_files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="IGES Files">
+      <param name="Local" value="IGES\IGES_Files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="VDAFS Files">
+      <param name="Local" value="VDAFS\VDAFS_Files.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Import Package">
+      <param name="Local" value="ViewE\CATIA_files.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Installation">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Licenses">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Standalone licenses">
+        <param name="Local" value="zep\zep_licenses.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Installing network license server">
+        <param name="Local" value="zep\Installing_network_license_server.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Using network license">
+        <param name="Local" value="zep\Using_network_license.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Import Package licenses">
+        <param name="Local" value="zep\Import_Package_licenses.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Settings">
+      <param name="Local" value="ViewE\Settings.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Credits">
+      <param name="Local" value="zep\Credits.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="System Requirements">
+      <param name="Local" value="zep\System_Requirements.htm">
+    </object>
+    </ul>
+</ul>
+</html>

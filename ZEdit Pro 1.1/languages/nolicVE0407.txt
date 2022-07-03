@@ -1,0 +1,11 @@
+Anmerkung: Dies ist eine unlizenzierte freie Version von DeskArtes View Expert.
+
+Um alle Funktionen von DeskArtes View Expert nutzen zu können benötigen Sie eine Lizenz.Für nähere Informationen wie Sie eine Lizenz erhalten wählen Sie bitte weiter unten: "Wie Sie eine Lizenz erhalten". 
+
+Die folgenden zusätzlichen Funktionen sind nur bei der lizenzierten Version von DeskArtes View Expert freigeschaltet: 
+ -- einlesen / ausgeben von VDA-FS Daten 
+ -- einlesen / ausgeben von IGES Daten
+ -- einlesen von CATIA, Ug und STEP Daten
+ -- Erzeugung von 2D Zeichnung
+
+Um zu sehen was Ihnen die zusätzlichen Funktionen ermöglichen, schauen Sie bitte in das DeskArtes View Expert Tutorial, indem Sie "Zeige Anleitung" weiter unten anklicken.

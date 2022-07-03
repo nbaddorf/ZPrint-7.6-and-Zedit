@@ -1,0 +1,21 @@
+NOTE: You don't have license to run DeskArtes 3Data Expert. 
+
+Without license the 3Data Expert has only the same functionality as the free version of the View Expert.
+
+To be able to use all the functionality of DeskArtes 3Data Expert, you need a license. For more information about how to get a license, please select 'How to get license' below.
+
+The licensed version of DeskArtes 3Data Expert includes: 
+ -- faceting and repair of IGES/VDA-FS models 
+ -- trimming and adding features to IGES/VDA-FS models 
+ -- repair and further processing of STL models 
+ -- splitting and combining of STL models 
+ -- offsetting and shelling of STL models 
+ -- triangle count reduction and decimation 
+ -- positioning and transformation tools 
+ -- slicing and support structures 
+ -- adding pins, holes etc.
+ -- technical 2D drawings
+ -- scheduled batch processing for RP
+ -- input CATIA, ProE, UG and STEP files
+
+To see what you can do with the 3Data Expert features, you can look at the DeskArtes 3Data Expert tutorial by selecting the 'Show tutorial' button below.

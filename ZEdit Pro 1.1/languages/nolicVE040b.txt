@@ -1,0 +1,11 @@
+Huom: T‰m‰ on DeskArtes View Experting lisensioimaton ilmaisversio. 
+
+K‰ytt‰‰ksesi View Expert-ohjelmiston kaikkia ominaisuuksia tarvitset lisenssin. Saadaksesi lis‰tietoja lisenssin hankkimiseksi paina alla olevaa 'Kuinka saan lisenssin' painiketta.
+
+Seuraavat lis‰piirteet ovat k‰ytett‰viss‰ vain lisensioidussa versiossa: 
+ -- VDA-FS-luku / kirjoitus
+ -- IGES luku / kirjoitus
+ -- tekniset 2D piirustukset
+ -- CATIA, Ug ja STEP luku
+
+N‰hd‰kseksi mit‰ piirteit‰ lisenssioitu versio sis‰lt‰‰, paina alla olevaa 'N‰yt‰ ohjeet' painiketta.

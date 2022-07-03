@@ -1,0 +1,13 @@
+Anmerkung: Sie haben keine Lizenz für DeskArtes Design Expert. 
+
+Ohne Lizenz läuft DeskArtes Design Expert als DEMO Version mit eingeschränkter Funktionalität.
+
+Die DEMO Version von Design Expert hat folgende Einschränkungen: 
+ -- Modelle können nur in einem bestimmten DEMO Format gespeichert werden (.dmo) 
+ -- maximale Modellgröße 10 MB 
+ -- maximal 50 Flächen können mit ray-tracing gerendert werden
+ -- maximale Bildgröße in ray-tracing 400x400 
+ -- Kann geplanten ray-tracing Prozess nicht ausführen
+ -- Erzeugung von 2D Zeichnung
+
+Um alle Funktionen von DeskArtes Design Expert nützen zu können benötigen Sie eine Lizenz. Für mehr Informationen wie Sie eine Lizenz bekommen drücken Sie bitte die Schaltfläche 'Wie man eine Lizenz erhält' weiter unten.

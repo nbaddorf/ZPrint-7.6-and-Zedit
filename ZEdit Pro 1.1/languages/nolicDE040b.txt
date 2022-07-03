@@ -1,0 +1,12 @@
+Huom: Sinulla ei ole lisenssiä DeskArtes Design Expert-ohjelmaan.
+
+Ilman lisenssiä Design Expert toimii demo moodissa, jossa käytössä on rajoitetut ominaisuudet.
+
+Design Expert-ohjelmiston demoversiossa on seuraavat rajoitukset: 
+ -- mallit voidaan tallettaa vain erityisessä DMO formaatissa (.dmo) 
+ -- mallin suurin koko on 10MB 
+ -- ExTrace säteenheitto hyväksyy enintään 50 pintaa 
+ -- suurin kuvakoko säteenheitossa 400x400 
+ -- säteenheiton tausta-ajot estetty
+
+Kaikkien Design Expert -ohjelmiston ominaisuuksien käyttö vaatii lisenssin. Saadaksesi lisätietoja lisenssin hankkimiseksi paina alla olevaa 'Kuinka saan lisenssin' painiketta.
